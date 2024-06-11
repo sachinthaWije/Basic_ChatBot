@@ -1,7 +1,5 @@
 import nltk
 from nltk.chat.util import Chat, reflections
-import tkinter as tk
-from tkinter import scrolledtext
 
 # Download the NLTK data
 nltk.download('punkt')
